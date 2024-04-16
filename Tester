@@ -1,0 +1,3 @@
+while true do
+  game.ReplicatedStorge.MainEvent:FireServer("Stomp")
+end
